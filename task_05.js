@@ -1,4 +1,3 @@
-debugger;
 
 function checkForSpam (str) { 
   'use strict';
